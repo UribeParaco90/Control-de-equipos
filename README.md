@@ -333,5 +333,13 @@ python -c "from app.database import engine; print(engine.dialect.name, engine.ur
 Debe mostrar `postgresql ep-...neon.tech neondb`.
 
 ---
+<img width="1260" height="418" alt="image" src="https://github.com/user-attachments/assets/05d27165-f2ed-4d1c-b1e9-d8b9af5cddc2" />
+<img width="1247" height="428" alt="image" src="https://github.com/user-attachments/assets/f0751059-086e-461a-a0d5-b8109f29dae2" />
+<img width="1290" height="349" alt="image" src="https://github.com/user-attachments/assets/90ac8e02-6b6b-40fe-9ee4-cd458fb83760" />
+<img width="1311" height="452" alt="image" src="https://github.com/user-attachments/assets/10e89a3f-a510-4740-93f0-525b670472f4" />
+
+
+
+
 
 Ejercicio 10 · Evelio Restrepo Marín
